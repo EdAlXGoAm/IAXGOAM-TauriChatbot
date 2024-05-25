@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/EdAlXGoAm/IAXGOAM-Backend.git
+[submodule "tauri-app"]
+	path = tauri-app
+	url = https://github.com/EdAlXGoAm/IAXGOAM-TauriApp.git
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/EdAlXGoAm/IAXGOAM-WebApp.git
