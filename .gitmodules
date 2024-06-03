@@ -7,3 +7,6 @@
 [submodule "web-app"]
 	path = web-app
 	url = https://github.com/EdAlXGoAm/IAXGOAM-WebApp.git
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/EdAlXGoAm/AIXGoAm-APIServer.git
